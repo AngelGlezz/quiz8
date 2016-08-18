@@ -1,0 +1,424 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué deportista ha ganado más medallas de oro en la historia?",
+      "respuestas": [
+        {
+          "respuesta": "Usain Bolt",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Michael Phelps",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Nadia Comaneci",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Rafael Nadal",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué nadadora es apodada “Iron Lady”?",
+      "respuestas": [
+        {
+          "respuesta": "Katinka Hosszú",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Marijose Alcalá",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Katie Ledecky",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Paola Longoria",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién posee el actual récord en los 100 metros planos?",
+      "respuestas": [
+        {
+          "respuesta": "Michael Johnson",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Carl Lewis",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Usain Bolt",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Tyson Gay",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién ganó la medalla de oro en tenis en Londres 2012?",
+      "respuestas": [
+        {
+          "respuesta": "Andy Murray",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Novak Djokovic",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Roger Federer",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Stan Wawrinka",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién obtuvo la primera medalla de oro olímpica para una mujer mexicana?",
+      "respuestas": [
+        {
+          "respuesta": "Paola Espinosa",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Aída Román",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "María del Rosario Espinoza",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Soraya Jiménez",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "Nadador que ha sido el único en arrebatar un oro a Michael Phelps en los 200 metros mariposa",
+      "respuestas": [
+        {
+          "respuesta": "Chad Le Clos",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Alexander Popov",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ian Thorpe",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Juan José Veloz",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién obtuvo la única medalla para México en Atlanta 1996?",
+      "respuestas": [
+        {
+          "respuesta": "Carlos Mercenario",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Bernardo Segura",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Víctor Estrada",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Nelson Vargas",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién ganó la primera medalla de oro en Río 2016?",
+      "respuestas": [
+        {
+          "respuesta": "Virginia Thrasher",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Michael Phelps",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Katie Ledecky",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Katinka Hosszú",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "Taekwondoín mexicana que ha ganado dos medallas olímpicas",
+      "respuestas": [
+        {
+          "respuesta": "Iridia Salazar",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Bernadette Pujals",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Vanessa Zambotti",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "María del Rosario Espinoza",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué atleta nacido en Cuba participó con los colores de México en Río 2016?",
+      "respuestas": [
+        {
+          "respuesta": "Rommel Pacheco",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Jahir Ocampo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Bredni Roque",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Marcos Madrid",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En dónde se realizarán los próximos Juegos Olímpicos de verano?",
+      "respuestas": [
+        {
+          "respuesta": "Los Ángeles",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ámsterdam",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Seúl",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Tokio",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué gimnasta estadounidense es considerada la nueva Nadia Comaneci?",
+      "respuestas": [
+        {
+          "respuesta": "Simone Biles",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Dominique Moceanu",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Gabrielle Douglas",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Aly Raisman",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién es el actual campeón en el baloncesto olímpico?",
+      "respuestas": [
+        {
+          "respuesta": "Brasil",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Argentina",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Estados Unidos",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Puerto Rico",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "Arquera mexicana con mejor posición en Río 2016",
+      "respuestas": [
+        {
+          "respuesta": "Aída Román",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alejandra Valencia",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Mariana Avitia",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Gabriela Bayardo",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué atleta independiente ganó una medalla de oro en Río?",
+      "respuestas": [
+        {
+          "respuesta": "Fehaid Aldeehani",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Missy Franklin",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Almaz Ayana",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "John Carlos",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "Único gimnasta mexicano que ha participado en los últimos dos Juegos Olímpicos",
+      "respuestas": [
+        {
+          "respuesta": "Jahir Ocampo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Iván García",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Saúl Mendoza",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Daniel Corral",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "Representante mexicano en bádminton",
+      "respuestas": [
+        {
+          "respuesta": "Marcos Madrid",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Lino Muñoz",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Joselito Velázquez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Dionicio Cerón",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "Nadadora que posee actualmente los récords mundiales en los 400, 800 y 1,500 metros",
+      "respuestas": [
+        {
+          "respuesta": "Katie Ledecky",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Hope Solo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Katinka Hosszú",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alex Morgan",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Quién ganó el oro en tiro con arco femenil en Londres 2012?",
+      "respuestas": [
+        {
+          "respuesta": "Ki Bo Bae",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Aída Román",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Svetlana Jórkina",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alejandra Valencia",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "Clavadista que hizo pareja con Paola Espinosa en la plataforma de 10 metros sincronizados en Río 2016",
+      "respuestas": [
+        {
+          "respuesta": "Jashia Luna",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Laura Sánchez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alejandra Orozco",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "María José Alcalá",
+          "tipo": "false"
+        }
+      ]
+    }
+  ]
+}
