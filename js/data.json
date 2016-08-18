@@ -253,6 +253,27 @@
       ]
     },
     {
+      "pregunta": "Nadadora que posee actualmente los récords mundiales en los 400, 800 y 1,500 metros",
+      "respuestas": [
+        {
+          "respuesta": "Katie Ledecky",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Hope Solo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Katinka Hosszú",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alex Morgan",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
       "pregunta": "¿Quién es el actual campeón en el baloncesto olímpico?",
       "respuestas": [
         {
@@ -353,27 +374,6 @@
         },
         {
           "respuesta": "Dionicio Cerón",
-          "tipo": "false"
-        }
-      ]
-    },
-    {
-      "pregunta": "Nadadora que posee actualmente los récords mundiales en los 400, 800 y 1,500 metros",
-      "respuestas": [
-        {
-          "respuesta": "Katie Ledecky",
-          "tipo": "true"
-        },
-        {
-          "respuesta": "Hope Solo",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Katinka Hosszú",
-          "tipo": "false"
-        },
-        {
-          "respuesta": "Alex Morgan",
           "tipo": "false"
         }
       ]
