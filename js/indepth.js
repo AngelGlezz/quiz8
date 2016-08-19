@@ -593,12 +593,12 @@ function finish_test(){
 
   	if(aciertos<=5){
 	  	aficionado="";
-	  	msg="Nomás fuiste a turistear… Tantita vergüenza.";
+	  	msg="nomás fuiste a turistear… Tantita vergüenza.";
   	}
   	
   	if(aciertos<=10 && aciertos >= 6){
 	  	aficionado="";
-	  	msg="Pues bueno, por corazón no paraste y se vio. Pudo ser mejor…";
+	  	msg="pues bueno, por corazón no paraste y se vio. Pudo ser mejor…";
   	}
 
   	if(aciertos>=11 && aciertos<=15){
@@ -608,7 +608,7 @@ function finish_test(){
 
   	if(aciertos>=16 && aciertos<=20){
 	  	aficionado="";
-	  	msg="El tiburón de Baltimore te envidia. Eres un histórico de los Olímpicos";
+	  	msg="el tiburón de Baltimore te envidia. Eres un histórico de los Olímpicos";
   	}
   	
   	$("#indepth_aciertos").html(aciertos);
