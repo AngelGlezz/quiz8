@@ -608,7 +608,7 @@ function finish_test(){
 
   	if(aciertos>=16 && aciertos<=20){
 	  	aficionado="";
-	  	msg="Michael Phelps te envidia. Eres un histórico de los Olímpicos";
+	  	msg="El tiburón de Baltimore te envidia. Eres un histórico de los Olímpicos";
   	}
   	
   	$("#indepth_aciertos").html(aciertos);
